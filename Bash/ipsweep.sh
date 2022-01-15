@@ -1,4 +1,5 @@
 #!/bin/bash
+# IP sweeper to see which IPs are alive on a subnet.s
 
 if [ "$1" == "" ]
 then
